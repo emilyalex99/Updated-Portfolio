@@ -1,0 +1,33 @@
+body {
+  color: gray;
+}
+
+h1 {
+  color: lightblue;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+a{
+	float:right;
+}
+a:hover{
+	color:darkorange;
+}
+ul {
+	list-style-type:none;
+	margin:0;
+	padding-left:40%;
+	overflow: hidden; 
+	background-color:#DAA520;
+}
+li{ 
+float:left;
+}
+li a {
+	display:block;
+	color:white;
+	text-align: center;
+	text-decoration: none;
+	padding: 14px 16px;
+}
